@@ -2,7 +2,7 @@
 
 #
 # USAGE
-# travis_run_tests_encapsulated.sh VERSION ROOT_MODULE [dependency_repo_1...]
+# travis_run_tests_encapsulated VERSION ROOT_MODULE [dependency_repo_1...]
 
 version=$1
 database=openerp_test
