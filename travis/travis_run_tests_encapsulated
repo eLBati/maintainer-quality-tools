@@ -11,6 +11,9 @@ root_module=$2
 shift 2
 
 case ${version} in
+    8.0)
+        options="--test-enable"
+        ;;
     7.0)
         options="--test-enable"
         ;;
